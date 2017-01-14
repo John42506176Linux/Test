@@ -1,0 +1,57 @@
+Stats,Imachine,Imachine,Imachine,Irouter,IDHCP
+Packets Sent,0,0,0,3,0
+Packets Received,2,2,2,3,4
+UUID of Machine,Unique Values:,,,,
+Ports open,"80,22,355","80,22,355","80,22,355",,
+Memory Size,8GB,8GB,8GB,12GB,15GB
+ IP address,10.0.0.23,10.0.0.24,10.0.0.25,10.0.0.25,10.0.0.1
+Machine State,Powered Off,Powered on,Powered off,Powered on,Powered on
+ All atributes after are for DHCP only,,,,,
+Network Mask,,,,,255.255.255.121
+,,,,,
+,,,,,
+,,,,,
+Stats,Imachine,Imachine,Imachine,Irouter,IDHCP
+Packets Sent,0,0,0,3,0
+Packets Received,5,14,6,5,55
+UUID of Machine,Unique Values:,,,,
+Ports open,"80,22,355","80,22,355","80,22,355",,
+Memory Size,8GB,8GB,8GB,12GB,15GB
+ IP address,10.0.0.23,10.0.0.24,10.0.0.25,10.0.0.25,10.0.0.1
+Machine State,Powered Off,Powered on,Powered off,Powered on,Powered on
+ All atributes after are for DHCP only,,,,,
+Network Mask,,,,,255.255.255.121
+,,,,,
+Stats,Imachine,Imachine,Imachine,Irouter,IDHCP
+Packets Sent,0,0,0,3,0
+Packets Received,5,5,6,4,4
+UUID of Machine,Unique Values:,,,,
+Ports open,"80,22,355","80,22,355","80,22,355",,
+Memory Size,8GB,8GB,8GB,12GB,15GB
+ IP address,10.0.0.23,10.0.0.24,10.0.0.25,10.0.0.25,10.0.0.1
+Machine State,Powered Off,Powered on,Powered off,Powered on,Powered on
+ All atributes after are for DHCP only,,,,,
+Network Mask,,,,,255.255..121
+,,,,,
+Fake,,,,,
+Stats,Imachine,Imachine,Imachine,Irouter,IDHCP
+Packets Sent,0,0,0,3,10
+Packets Received,5,5,6,10,90
+UUID of Machine,Unique Values:,,,,
+Ports open,"80,22,355","80,22,355","80,22,355","80,22,355,1026,1073","80,22,355,455,1077"
+Memory Size,8GB,8GB,8GB,12GB,15GB
+ IP address,10.0.0.23,10.0.0.24,10.0.0.25,10.0.0.25,10.0.0.1
+Machine State,Powered Off,Powered on,Powered off,Powered on,Powered on
+ All atributes after are for DHCP only,,,,,
+Network Mask,,,,,255.255.255.121
+,,,,,
+Stats,Imachine,Imachine,Imachine,Irouter,IDHCP
+Packets Sent,4,3,4,2,0
+Packets Received,5,5,6,,4
+UUID of Machine,Unique Values:,,,,
+Ports open,"80,22,355","80,22,355","80,22,355",,
+Memory Size,8GB,8GB,8GB,12GB,15GB
+ IP address,10.0.0.23,10.0.0.24,10.0.0.25,10.0.0.25,10.0.0.1
+Machine State,Powered Off,Powered off,Powered off,Powered on,Powered off
+ All atributes after are for DHCP only,,,,,
+Network Mask,,,,,255.255.255.121
